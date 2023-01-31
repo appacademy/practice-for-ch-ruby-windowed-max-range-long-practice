@@ -1,0 +1,1 @@
+# practice-for-ch-ruby-windowed-max-range-long-practice
